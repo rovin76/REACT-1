@@ -1,10 +1,13 @@
 # React Starting ...
 
-cmd:- `npx create-react-app application`
+## Topic : 
+ - React create App, AddEventListener(onChange,onClick),create Todo List, Delete Data, Avoid Black Submission, Avoid Dublicate Value
+ 
+`npx create-react-app application`
 
 ### Study Material:
-- Avoid Dublicates Value.
 - Avoid Black Submission.
+  - Avoid Dublicates Value.
 
 ```
 const handleAddData = () => {
